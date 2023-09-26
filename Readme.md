@@ -36,8 +36,6 @@ In the client directory, install the required dependencies:
     - cd client
     - `npm install axios react-player`
 
-# Implement Components:
-    - Components for video streaming and overlay management:
 
 4. # MongoDB Configuration:
     - Start  MongoDB server and create a database named livestream_app.
