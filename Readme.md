@@ -24,17 +24,17 @@ Set up your project structure, for example:
 2. # Backend (Python with Flask):
 
     - Install Dependencies:
-        pip install Flask pymongo
+        `pip install Flask pymongo`
     - Implement `app.py`
 
 3. # Frontend (React):
     - Create a React App:
-     - npx create-react-app client
+        - `npx create-react-app client`
     - Install Dependencies:
 In the client directory, install the required dependencies:
 
     - cd client
-    - npm install axios react-player
+    - `npm install axios react-player`
 
 # Implement Components:
     - Components for video streaming and overlay management:
@@ -44,7 +44,7 @@ In the client directory, install the required dependencies:
 
 5. # Run the Application:
     -  start your Flask server:
-        - python app.py
+        - `python app.py`
     
     - In the client directory, start React app:
-        - npm start
+        - `npm start`
